@@ -196,8 +196,6 @@ Database constraints complement application-level validation. For example, timet
 | Laravel Sanctum | API authentication and token-based access |
 | Eloquent ORM | Database interaction and relationship management |
 | JSON APIs | Communication between the backend and clients |
-| Vite | Frontend development and asset tooling |
-| npm | JavaScript dependency management |
 | Pest and PHPUnit | Automated application testing |
 
 The test configuration supports in-memory SQLite for testing. The exact production database configuration and deployment environment must be confirmed from the relevant environment and deployment files.
